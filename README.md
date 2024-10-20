@@ -5,5 +5,5 @@
 
 ![image](https://github.com/user-attachments/assets/ce8e3f6d-2763-4002-9a80-2c1c2173f13b)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dgr3y2eddnnmuqq2rnwd42ne2e&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 
